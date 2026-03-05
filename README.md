@@ -1,5 +1,5 @@
 # MSE (Muse Save Editor)
-[中文](./README_CN.md)
+[ [中文](./README_CN.md) ]   
 A command-line tool written in Go for serializing and deserializing Muse Dash save files (`.sav`). It allows converting binary save files to readable JSON format for editing and convert them back to the original binary format.
 
 ## Features
